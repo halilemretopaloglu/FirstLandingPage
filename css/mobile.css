@@ -1,0 +1,32 @@
+#navbar {
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    overflow: hidden;
+    height: 90px;
+    
+}
+#home p {
+    text-align: center;
+}
+#projects {
+    padding: 1rem;
+}
+#projects .items {
+    flex-direction: column;
+}
+#projects .items .item {
+    width: 100%;
+    margin: 1rem;
+}
+#about {
+    margin: auto;
+    width: 90%;
+}
+#about .about .aboutcontent {
+    width: 100%;
+}
+#about .about .about-img {
+    padding-right: 0;
+    padding-left: 0;
+}
